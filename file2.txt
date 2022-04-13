@@ -2,3 +2,4 @@ hello, i'm testing git
 test git diff
 test git fork
 okie git fetch
+test git pull
